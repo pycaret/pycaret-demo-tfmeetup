@@ -1,4 +1,4 @@
-# Introducing PyCaret June 16, 2020
+# Introducing PyCaret July 4, 2020
 
 PyCaret is an open source, low-code machine learning library in Python that aims to reduce the cycle time from hypothesis to insights. PyCaret can be used for rapidly developing and deploying machine learning pipeline. 
 
